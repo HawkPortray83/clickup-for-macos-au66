@@ -1,4 +1,4 @@
-#  
+#  Enhance ClickUp for macOS with advanced Plugin for ClickUp for macOS - quick search and focus mode, the #1 plugin. Includes quick search and focus mode for a smoother experience.
 
 
 
